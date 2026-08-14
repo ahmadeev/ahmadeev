@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Study-related repos are now [here](https://github.com/ahmadeev-itmo)
+Study-related repos are now [here](https://github.com/itmo-study)
 
 <!--
 **ahmadeev/ahmadeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
