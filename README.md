@@ -1,18 +1,21 @@
-## Hi there 👋
+# Hi, I'm Danis 👋
 
-Study-related repos are now [here](https://github.com/itmo-study)
+Software Engineering student focused on **full-stack development, backend systems, and DevOps**.
 
-<!--
-**ahmadeev/ahmadeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Academic Projects
 
-Here are some ideas to get you started:
+University coursework and labs are collected at **[@itmo-study](https://github.com/itmo-study)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Projects
+
+* Other experiments with automation, self-hosting, and developer tools
+
+### Tech Stack
+
+**Java · Python · JavaScript/TypeScript · React · PostgreSQL · Docker · Linux · Git**
+
+### Contacts
+
+**Telegram:** @danis4002
+**Email:** [akhrnadeev@gmail.com](mailto:akhrnadeev@gmail.com)
+**CV:** [web site](https://ahmadeev.github.io/cv/)
