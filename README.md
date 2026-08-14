@@ -12,10 +12,8 @@ University coursework and labs are collected at **[@itmo-study](https://github.c
 
 ### Tech Stack
 
-**Java · Python · JavaScript/TypeScript · React · PostgreSQL · Docker · Linux · Git**
+Java · Python · JavaScript/TypeScript · React · PostgreSQL · Docker · Linux · Git
 
 ### Contacts
 
-**Telegram:** @danis4002
-**Email:** [akhrnadeev@gmail.com](mailto:akhrnadeev@gmail.com)
-**CV:** [web site](https://ahmadeev.github.io/cv/)
+t.me/danis4002 · [akhrnadeev@gmail.com](mailto:akhrnadeev@gmail.com) · [my CV online](https://ahmadeev.github.io/cv/)
